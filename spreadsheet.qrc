@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="open">document-open.png</file>
+        <file alias="exit">application-exit.png</file>
+        <file alias="save">document-save.png</file>
+        <file alias="encrypt">document-decrypt.png</file>
+        <file alias="decrypt">decrypted.png</file>
+        <file alias="arrow">arrow.png</file>
+    </qresource>
+</RCC>
